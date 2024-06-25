@@ -1,0 +1,387 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 882px;
+  height: 1363px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  height: 1360px;
+  background-color: #9b9b9b;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 828px;
+  height: 1298px;
+  top: 28px;
+  left: 29px;
+  background-color: #494949;
+}
+
+.frame .img {
+  position: absolute;
+  width: 828px;
+  height: 259px;
+  top: 28px;
+  left: 29px;
+  mix-blend-mode: overlay;
+  object-fit: cover;
+}
+
+.frame .ellipse {
+  position: absolute;
+  width: 138px;
+  height: 139px;
+  top: 218px;
+  left: 374px;
+  background-color: #9b9b9b;
+  border-radius: 69px/69.5px;
+}
+
+.frame .ellipse-2 {
+  position: absolute;
+  width: 123px;
+  height: 121px;
+  top: 227px;
+  left: 382px;
+  object-fit: cover;
+}
+
+.frame .guillermo-farel {
+  position: absolute;
+  width: 344px;
+  top: 299px;
+  left: 38px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .edad {
+  position: absolute;
+  width: 91px;
+  top: 299px;
+  left: 520px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper {
+  color: #ffffff;
+}
+
+.frame .span {
+  color: #c3ef46;
+}
+
+.frame .profesion-chichologo {
+  position: absolute;
+  width: 227px;
+  top: 299px;
+  left: 621px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .div {
+  position: absolute;
+  width: 234px;
+  height: 454px;
+  top: 493px;
+  left: 603px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 247px;
+  height: 454px;
+  top: 493px;
+  left: 319px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 234px;
+  height: 454px;
+  top: 493px;
+  left: 50px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 787px;
+  height: 102px;
+  top: 1010px;
+  left: 50px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 125px;
+  top: 423px;
+  left: 657px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .lorem-ipsum-is {
+  position: absolute;
+  width: 194px;
+  top: 508px;
+  left: 73px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .p {
+  position: absolute;
+  width: 194px;
+  top: 508px;
+  left: 350px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .contrary-to-popular {
+  position: absolute;
+  width: 194px;
+  top: 508px;
+  left: 627px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  width: 137px;
+  top: 884px;
+  left: 73px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #2078df;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  width: 130px;
+  top: 885px;
+  left: 347px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #2078df;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-5 {
+  width: 134px;
+  top: 886px;
+  left: 628px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #2078df;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .there-are-many {
+  position: absolute;
+  width: 757px;
+  top: 1022px;
+  left: 64px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .ellipse-3 {
+  position: absolute;
+  width: 74px;
+  height: 73px;
+  top: 1166px;
+  left: 230px;
+  object-fit: cover;
+}
+
+.frame .ellipse-4 {
+  position: absolute;
+  width: 73px;
+  height: 73px;
+  top: 1166px;
+  left: 418px;
+  object-fit: cover;
+}
+
+.frame .ellipse-5 {
+  position: absolute;
+  width: 71px;
+  height: 73px;
+  top: 1166px;
+  left: 603px;
+  object-fit: cover;
+}
+
+.frame .button {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  width: 152px;
+  height: 41px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 419px;
+  left: 94px;
+  background-color: #d9d9d9;
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.frame .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 101px;
+  height: 40px;
+  margin-top: -10.5px;
+  margin-bottom: -8.5px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.frame .button-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  width: 142px;
+  height: 45px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 415px;
+  left: 378px;
+  background-color: #d9d9d9;
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.frame .button-3 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 101px;
+  height: 40px;
+  margin-top: -8.5px;
+  margin-bottom: -6.5px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.frame .div-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  width: 142px;
+  height: 45px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 415px;
+  left: 640px;
+  background-color: #d9d9d9;
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.frame .button-4 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 101px;
+  height: 40px;
+  margin-top: -8.5px;
+  margin-bottom: -6.5px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: -0.42px;
+  line-height: 30px;
+}
